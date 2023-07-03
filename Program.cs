@@ -8,10 +8,20 @@
 string [] arr = new string [] {"Hello", "2", "world", ":-)"};
 int N = 3;
 int newsize = 0;
+int newindex = 0;
 for (int i = 0; i < arr.Length; i++)
 {
     if(arr[i].Length<=N)
     {
         newsize++;
     }
+}
+string[ ] newarr = new string [newsize];
+for (int i = 0; i < arr.Length; i++)
+{
+ if(arr[i].Length<=N)
+ {
+    newarr[newindex]=arr[i];
+    newindex++;
+ }   
 }
