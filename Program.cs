@@ -24,4 +24,4 @@ for (int i = 0; i < arr.Length; i++)
     newarr[newindex]=arr[i];
     newindex++;
  }   
-}
+}Console.WriteLine($"[{string.Join(", ", newarr)}]");
