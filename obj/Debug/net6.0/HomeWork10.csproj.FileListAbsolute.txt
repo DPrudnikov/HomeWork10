@@ -1,0 +1,15 @@
+E:\GeekBrains\HomeWork10\bin\Debug\net6.0\HomeWork10.exe
+E:\GeekBrains\HomeWork10\bin\Debug\net6.0\HomeWork10.deps.json
+E:\GeekBrains\HomeWork10\bin\Debug\net6.0\HomeWork10.runtimeconfig.json
+E:\GeekBrains\HomeWork10\bin\Debug\net6.0\HomeWork10.dll
+E:\GeekBrains\HomeWork10\bin\Debug\net6.0\HomeWork10.pdb
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.csproj.AssemblyReference.cache
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.AssemblyInfoInputs.cache
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.AssemblyInfo.cs
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.csproj.CoreCompileInputs.cache
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.dll
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\refint\HomeWork10.dll
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.pdb
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\HomeWork10.genruntimeconfig.cache
+E:\GeekBrains\HomeWork10\obj\Debug\net6.0\ref\HomeWork10.dll
